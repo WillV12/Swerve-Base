@@ -1,11 +1,11 @@
 {
   "drive": {
-    "type": "sparkmax",
+    "type": "falcon",
     "id": 8,
     "canbus": null
   },
   "angle": {
-    "type": "sparkmax",
+    "type": "falcon",
     "id": 9,
     "canbus": null
   },
@@ -20,7 +20,7 @@
   },
   "absoluteEncoderOffset": 5.36,
   "location": {
-    "front": 14,
-    "left": -14
+    "front": 15,
+    "left": -15
   }
 }
